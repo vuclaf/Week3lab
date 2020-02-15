@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=IntegerList
+comment0.text=A\ class\ that\ inherits\ IntegerListADT\ and\ have\ linked\ cells\ that\ store\ integer\ values\n\ @author\ Evan\ Vu\n
+comment1.params=
+comment1.target=IntegerList()
+comment2.params=x
+comment2.target=void\ append(java.lang.Integer)
+comment2.text=\n\ A\ method\ to\ add\ into\ the\ Integer\ List\ a\ new\ cell\n\ @param\ The\ value\ of\ the\ appended\ cell\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Return\ the\ value\ of\ root\ as\ a\ String\n\ @return\ The\ value\ in\ root\ as\ a\ String\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\n\ Check\ if\ root\ is\ empty\n\ @return\ true\ if\ root\ is\ empty,\ false\ if\ it\ is\ not\n
+numComments=5

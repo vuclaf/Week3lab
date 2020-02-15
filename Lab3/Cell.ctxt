@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=A\ class\ similar\ to\ a\ singly\ Linked\ List's\ node\n\ @author\ Evan\ Vu\n
+comment1.params=val
+comment1.target=Cell(java.lang.Integer)
+comment2.params=x
+comment2.target=void\ append(java.lang.Integer)
+comment2.text=A\ method\ to\ add\ a\ cell\ to\ the\ list\n\ @return\ Append\ a\ new\ Cell\ next\ to\ the\ final\ Cell\n\ @param\ The\ value\ stored\ in\ the\ appended\ Cell\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=A\ method\ to\ return\ a\ String\ made\ by\ the\ values\ of\ all\ Cells\n\ @return\ A\ String\ constructed\ by\ the\ values\ of\ all\ the\ Cells\ linked\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ A\ testing\ and\ timing\ class\ for\ the\ IntegerList\ class\n\ @author\ Evan\ Vu\n\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfItems\ seed
+comment2.target=long\ timeAppend(int,\ int)
+comment2.text=\n\ Testing\ and\ timing\ the\ performance\ of\ the\ append\ method\n\ @return\ The\ runtime\ for\ the\ append\ method\n
+comment3.params=numberOfItems\ seed
+comment3.target=long\ timeToString(int,\ int)
+comment3.text=\n\ Testing\ and\ timing\ the\ performance\ of\ the\ toString\ method\n\ @return\ The\ runtime\ for\ the\ toString\ method\n
+numComments=4
